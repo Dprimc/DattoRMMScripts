@@ -29,9 +29,6 @@ check_system_extension_state() {
     return 2
 }
 
-
-
-
 # Install the app
 echo "Installing the app..."
 sudo installer -pkg "$InstallerPath" -target /
