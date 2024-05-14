@@ -5,7 +5,7 @@
 #    Got script from "https://community.automox.com/community-worklets-12/worklet-install-sentinelone-agent-macos-1805" and modified for Addigy 
 
 filename="SentinelOneMac.pkg"
-site_token="change the right token" # change the token
+site_token="change the token" # change the token
 
 # CONSTANTS
 installer="/Library/Addigy/ansible/packages/DOIT - SentinelOne (1.0)/$filename"
